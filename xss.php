@@ -1,5 +1,5 @@
 <?php
-	if(@$_POST['z']{
+	if(@$_POST['xss']{
 	echo 'hasil pencaharian: '.$_POST['xss'];
 	}else{
 	echo '<form action="" method="post">
